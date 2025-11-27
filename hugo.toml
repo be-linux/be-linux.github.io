@@ -174,7 +174,7 @@ pluralizelisttitles = false
     enable = true
     auto_play = true
     slide_speed = 2000
-    pagination_speed = 1000
+    pagination_speed = 2000
 
 [params.features]
     enable = true
@@ -194,10 +194,10 @@ pluralizelisttitles = false
     enable = true
     icon = "far fa-file-alt"
     title = "Have any questions?"
-    title2 = "Fun, helpful and passionate."
-    subtitle = "If you're making your first steps with Linux don't hesitate to join the forums. Linux users are often welcoming, helpful and eager to share their experience."
+    title2 = "You can join our groups."
+    subtitle = "If you have questions, ideas, or want to contribute, you can join us on GitHub and Telegram."
     link_url = "#"
-    link_text = "Read more FAQs"
+    link_text = "Read FAQs"
 
 
 [params.recent_posts]
