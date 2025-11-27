@@ -137,9 +137,9 @@ div.section {
   height: 80px;
   color: #fff;
   line-height: 80px;
-  border-radius: 40px;
-  border: solid 1px #fff;
-  font-size: 20px;
+  /*border-radius: 40px;
+  border: solid 1px #fff;*/
+  font-size: 48px;
 }
 .icon.icon-lg {
   font-size: 30px;
@@ -1450,7 +1450,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 .box-simple .icon {
   color: var(--primary-accent);
-  border-color: var(--primary-accent);
+  /*border-color: var(--primary-accent);*/
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
