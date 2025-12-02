@@ -47,21 +47,11 @@ pluralizelisttitles = false
     parent     = "section.night"
 
 [[menu.main]]
-    name       = "Header variations"
-    identifier = "section.headervariations"
-    url        = ""
-    weight     = 2
-    parent     = "menu.download"
-    post       = 2
-
-
-[[menu.main]]
     name       = "About"
     identifier = "section.about"
     url        = ""
     weight     = 3
     post       = 2
-
 
 # Top bar social links menu
 
@@ -156,13 +146,13 @@ pluralizelisttitles = false
     search = true
 
 [params.carouselCustomers]
-    items = 6
+    items = 2
     auto_play = false
     slide_speed = 2000
     pagination_speed = 1000
 
 [params.carouselTestimonials]
-    items = 4
+    items = 2
     auto_play = false
     slide_speed = 2000
     pagination_speed = 1000
@@ -204,7 +194,7 @@ pluralizelisttitles = false
     enable = true
     title = "From our blog"
     subtitle = "Latest news"
-    hide_summary = false
+    hide_summary = true
 
 [params.footer.recent_posts]
     enable = true
